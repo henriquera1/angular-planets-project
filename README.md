@@ -1,3 +1,7 @@
+# References 
+
+Cards template: https://codepen.io/3psy0n/pen/LYpajmX
+
 # Test
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.5.
